@@ -28,7 +28,12 @@ section{
 }
 .baiban{
     text-align:center;
-    color:black
+    color: deeppink;
+}
+    
+    .oi-oi{
+    text-align: center;
+
 }
 .big-dig{
     padding: 5px;
@@ -64,10 +69,55 @@ section{
     border-radius: 7px;
    
 }
+
 .half-width img{
     width: 100%;
 }
 .half-width{
-    width: 60%;
+    width: 30%;
 }
+
+.lig-nig{
+    text-align: center;
+    color: rgb(228, 148, 44);
+}
+.dig-dig{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:  right;
+    padding-right: 0 auto;
+    margin-right: 100px;
+}
+.gig-gig{
+    text-align: center;
+}
+.orang-oil{
+    text-align: center;
+    color: orange;
+}
+.noksi-k{
+    text-align: center;
+}
+.kig-kig{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+
+
+}
+ footer h1{
+    font-family: 'Poppins', sans-serif;
+ text-align: center;
+ text-decoration:deeppink;
+ 
+}
+footer p{
+    text-align: center;
+    
+}body{
+    font-family: 'Poppins', sans-serif;
+} 
+.tig-tig{
+    font-family: 'Poppins', sans-serif;
+}
+
     
