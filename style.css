@@ -1,0 +1,58 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;  
+}
+
+.acua-color{
+    color: aqua;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 9%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: #ff5959;
+    border-radius: 7px;
+    padding: 10px 50px;
+    color: white;
+}
+.baiban{
+    text-align:center;
+    color:black
+}
+.big-dig{
+    padding: 5px;
+    background-color: lightblue;
+    border: 10px 10px;
+    margin: 10px;
+}
+.big-fig{
+    background-color: rgb(231, 244, 248);
+    border-radius: 7px;
+    margin:0 auto;
+    width: 115%;
+    padding: 25px;
+}
+.big-tig{
+    background-color: rgb(248, 234, 229);
+    border-radius: 7px;
+    margin:0 auto;
+    width: 115%;
+    padding: 25px;
+}
+.big-kig{
+    background-color: rgb(215, 192, 221);
+    border-radius: 7px;
+    margin:0 auto;
+    width: 115%;
+    padding: 25px;
+}
