@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -56,3 +57,17 @@ section{
     width: 115%;
     padding: 25px;
 }
+.hig-mig{
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    padding: 10px;
+    border-radius: 7px;
+   
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 60%;
+}
+    
