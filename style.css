@@ -116,8 +116,18 @@ footer p{
 }body{
     font-family: 'Poppins', sans-serif;
 } 
-.tig-tig{
-    font-family: 'Poppins', sans-serif;
-}
+    .tig-tig{}
 
+   .lio-lio{
+       color: rgb(241, 222, 184);
+   }
+   .pio-pio{
+       color: red;
+   }
+   .poi-poi-poi{
+       background-color: black;
+   }
+   .opi-opi{
+       color: white;
+   }
     
